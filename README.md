@@ -16,6 +16,19 @@ Built both a linear and a poly regression model from scratch and used it to anal
 <img width="639" alt="Screenshot 2024-11-30 at 12 11 39 PM" src="https://github.com/user-attachments/assets/9cd30736-491c-40ed-9ffe-5cab9d06133e">
 <img width="359" alt="Screenshot 2024-11-30 at 12 11 59 PM" src="https://github.com/user-attachments/assets/51f586bc-16ef-4d7a-8ae9-385a53cd6842">
 
+# Project 4: PCA 
+explored the concept of principal component analysis by building a model from scratch and used it to perform the eigenface algorithm on human faces as well as an early idea for facial recognition. Dataset: https://conradsanderson.id.au/lfwcrop/
+
+<img width="745" alt="Screenshot 2024-11-30 at 12 35 55 PM" src="https://github.com/user-attachments/assets/df8656a3-33a4-4eb8-abac-3d6a7f9e1f68">
+<img width="725" alt="Screenshot 2024-11-30 at 12 36 02 PM" src="https://github.com/user-attachments/assets/af615123-2db6-435d-92af-aa6a9b9c3272">
+
+# Project 5: Kmeans
+
+
+
+
+
+
 
 
 
