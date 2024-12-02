@@ -23,6 +23,25 @@ explored the concept of principal component analysis by building a model from sc
 <img width="725" alt="Screenshot 2024-11-30 at 12 36 02 PM" src="https://github.com/user-attachments/assets/af615123-2db6-435d-92af-aa6a9b9c3272">
 
 # Project 5: Kmeans
+implemented the KMeans clustering algorithm and used it to analyze the five blobs dataset including using an elbow plot to determine number of clusters. Lastly used it to run image segmentation and compression.
+
+<img width="758" alt="Screenshot 2024-12-02 at 1 09 06 PM" src="https://github.com/user-attachments/assets/0299b113-051d-40f6-b887-dcba30ef2826">
+<img width="581" alt="Screenshot 2024-12-02 at 1 08 07 PM" src="https://github.com/user-attachments/assets/02e80a1f-f99b-4b9b-a43e-4b011825905c">
+
+# Project 6: KNN & Naive Bayes classifiers
+Implemented a preprocessing data pipline to abstract words from spam and ham emails from eron: https://www.kaggle.com/datasets/wcukierski/enron-email-dataset. Implmented both a KNN and Naive Bayes classifier in order to do an in-depth comparsion of thier pros and cons as well as ability to identify an email as spam or not. Obtained an accuracy of 92% with KNN and 89% with Naive Bayes.
+
+<img width="532" alt="Screenshot 2024-12-02 at 1 22 17 PM" src="https://github.com/user-attachments/assets/f91c660b-2e77-442e-9a4d-d923cc357ac3">
+
+# Project 7: RNF Network
+Implemented a simple RBF network that recognizes handwritten digits. Inlcuded using my previous implementations of KMeans and Linear Regression: https://www.kaggle.com/datasets/hojjatk/mnist-dataset. Was able to obtain 91% accuracy.
+
+<img width="748" alt="Screenshot 2024-12-02 at 1 27 18 PM" src="https://github.com/user-attachments/assets/b731bf2c-cd18-4258-8c26-55bfad184ac3">
+
+
+
+
+
 
 
 
